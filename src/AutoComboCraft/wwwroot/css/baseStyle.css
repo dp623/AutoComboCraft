@@ -1,0 +1,48 @@
+.thin-underline {
+    border-bottom: 1px solid black; /* 下線の太さと色を指定 */
+    display: inline-block; /* ボーダーをテキストの幅に合わせる */
+}
+
+body {
+    /* 落ち着いた灰色の背景 */
+    background-color: #646464;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.baseText {
+    color: #ffffff
+}
+
+.linkText {
+    color: #8585ee
+}
+
+.header {
+    text-align: center;
+    padding: 50px;
+}
+.header h1 {
+    margin: 0;
+    color: #ffffff;
+}
+.navigation {
+    text-align: center;
+    margin-top: 20px;
+}
+.navigation a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.content {
+    margin-top: 20px;
+}
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+}

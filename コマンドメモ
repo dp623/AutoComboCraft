@@ -1,0 +1,7 @@
+ルート
+AutoComboCraft\src\AutoComboCraft
+
+ホットリロード有りで実行
+```
+dotnet watch run
+```

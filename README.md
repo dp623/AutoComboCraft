@@ -5,10 +5,14 @@
 ----
 - 言語：C#, ASP.NET
 - Webアプリケーション
-- Visual Studio Code（ツリー内はVSCode拡張機能）
-    - C# v2.18.16
-    - NuGet Package Manager v1.1.6
+- Visual Studio Code
+    - 拡張機能：C# v2.18.16
+    - 拡張機能：NuGet Package Manager v1.1.6
 
+### その他
+- ChatGPT-4
+    - 元になるソースは基本的にこいつに任せて、必要に応じて手を入れる
+    - 実験的にコメントも全てChatGPT-4任せにしてみる？
 
 
 
